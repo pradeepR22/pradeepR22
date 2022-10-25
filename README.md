@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Pradeep Rathod</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifW-daQ3F9e1UnyPM_YRUti5FRLEf1LLkTQ&usqp=CAU">
+<img align="right" alt="coding" width="300" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepr22&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepr22" /> </p>
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-6c6fceb788.gif)](https://pradeepR22.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6c0f9b95746151.5e9ecde69599e.gif)](https://pradeepR22.io)
 
 
 <h1 align="center">Hi 👋, I'm Pradeep Rathod</h1>
